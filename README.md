@@ -10,5 +10,5 @@ this part give us an array with Nclass row
 **3.fromfrom sklearn.model_selection import KFold** 
 to use Kfold way as classification 
 **4. from the skilearnneural_network import MLPClassifier** 
-this  section let us to use the classification of svm
+this  section let us to use the classification of MLP
 5.from sklearn.svm import SVC
